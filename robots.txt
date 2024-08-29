@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://V2233.github.io/micro/sitemap.xml
+Sitemap: https://V2233.github.io/sitemap.xml
