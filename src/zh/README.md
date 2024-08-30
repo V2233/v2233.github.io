@@ -10,11 +10,11 @@ tagline: 云崽聊天机器人的低代码开发管理系统，包含了插件�
 actions:
   - text: 快速开始
     icon: lightbulb
-    link: ./demo/
+    link: ./guide/basic/
     type: primary
 
-  - text: 开发指南
-    link: ./guide/
+  - text: 模块介绍
+    link: ./guide/modules/
 
 highlights:
 
@@ -55,7 +55,7 @@ highlights:
       - title: 代码编辑器
         icon: code
         details: 内置多种语言高亮显示
-        link: ./guide/modules/editor
+        link: ./guide/modules/files
         
       - title: 图片编辑器
         icon: code
@@ -95,9 +95,9 @@ highlights:
       - title: 贡献名片
         icon: eraser
         details: 贡献代码可嵌入你的名片哦
-        link: ./guide/modules/contributors
+        link: ./guide/modules/contribute
 
-  - header: 易于使用
+  - header: 快速使用
     # image: /assets/image/box.svg
     # bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     # bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
@@ -111,56 +111,15 @@ highlights:
 
 ## 技术相关
 
-[JavaScript](https://developer.mozilla.org/zh-CN/)
-
-[TypeScript]()
-
-[npmjs](https://www.npmjs.com/)
-
-[husky](https://typicode.github.io/husky)
-
-[commitlint.js](https://commitlint.js.org/)
-
-[eslint](https://eslint.nodejs.cn/)
-
-[babeljs](https://www.babeljs.cn/)
-
-[koa](https://koa.bootcss.com/)
-
-[lodashjs](https://www.lodashjs.com/)
-
-[tailwindcss](https://www.tailwindcss.cn/)
-
-[preline](https://preline.co/)
-
-[prettier](https://www.prettier.cn/)
-
-[rollupjs](https://www.rollupjs.com/command-line-interface/)
+[JavaScript](https://developer.mozilla.org/zh-CN/)  [TypeScript](https://www.typescriptlang.org/)   [npmjs](https://www.npmjs.com/)   [nodejs](https://nodejs.cn/)    [husky](https://typicode.github.io/husky)   [commitlint.js](https://commitlint.js.org/)   [eslint](https://eslint.nodejs.cn/)   [babeljs](https://www.babeljs.cn/)    [koa](https://koa.bootcss.com/)   [lodashjs](https://www.lodashjs.com/)   [tailwindcss](https://www.tailwindcss.cn/)
+    [preline](https://preline.co/)    [prettier](https://www.prettier.cn/)    [rollupjs](https://www.rollupjs.com/command-line-interface/)    [vue](https://cn.vuejs.org/)    [vite](https://vitejs.dev/)   [elment-plus](https://s-test.belle.cn/zh-CN/)   [style-lint](https://stylelint.io/)   [sass](https://www.sass.hk/)    [pinia](https://pinia.vuejs.org/zh/)    [axios](https://www.axios-http.cn/)   [echarts](https://echarts.apache.org/)    [marked](https://github.com/markedjs/marked)    [highlight.js](https://highlightjs.org/)    [xterm](https://xtermjs.org/)[html2canvas](https://html2canvas.hertzen.com/)    [mockjs](http://mockjs.com/)
 
 
-[vue]()
+## 鸣谢
 
-[vite]()
+- [yunzaijs](https://github.com/yunzai-org/yunzaijs) 插件运行环境
 
-[elment-plus]()
+- [Yenai-Plugin](https://gitee.com/yeyang52/yenai-plugin) 系统状态接口参考
 
-[scss]()
-
-[pinia]()
-
-[mitt]()
-
-[axios]()
-
-[echarts]()
-
-[marked]()
-
-[highlight.js]()
-
-[xterm]()
-
-[html2canvas]()
-
-[mockjs]()
+- [es-drager](https://github.com/vangleer/es-drager) 拖拽组件
 
