@@ -14,8 +14,8 @@
 
 ## 终端
 
-面板配置了简易的Shell终端，内部基于node的exec实现，如果你的node有root权限，请谨慎操作，后面将支持ssh连接。
+面板配置了简易的Shell终端，内部基于node的exec实现，如果你的node有root权限，请谨慎操作。此外，你可以点击ssh按钮连接远程服务器，需要注意的是，快捷键按下后需要回车才会执行。
 
 - 终端
 
-![files](/docs/images/files/1.png)
+![files](/docs/images/files/4.png)
